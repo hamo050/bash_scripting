@@ -2,6 +2,7 @@
 
 # create dirs from N to N+10
 # to delete use rmdir {1..10}
+############################
 
 cur=1
 while [[ "$cur" -le 10 ]]
